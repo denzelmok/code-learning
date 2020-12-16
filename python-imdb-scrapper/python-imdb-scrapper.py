@@ -1,9 +1,5 @@
 import requests
-import datetime
 from bs4 import BeautifulSoup
-from time import sleep
-from random import randint
-import numpy as np
 from re import sub
 import pandas as pd
 
