@@ -81,7 +81,7 @@ for i in range(10):
     countrys.append(country)
 
     # store worldwide gross
-    wwg = soup.find('h4', class_="inline", text="Cumulative Worldwide Gross:").next_element.next_element
+    wwg = soup.find('h4', class_="inline", text="Cumulative Worldwide Gross:").next_element.next_element.strip()
     worldwide_grosses.append(wwg)
 
     # store movie ratings
