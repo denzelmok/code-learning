@@ -1,0 +1,11 @@
+,movie,year,time_minute,imdb_rating,imdb_voters,metascore,reviews,critics,popularity,country,worldwide_gross,movie_class
+0,The Shawshank Redemption ,1994,142,9.3,"2,318,282",80,8533,171,95,USA," $28,815,291        ",MA
+1,The Godfather ,1972,175,9.2,"1,600,867",100,4118,256,55,USA," $246,120,986        ",R
+2,The Godfather: Part II ,1974,202,9.0,"1,118,141",90,1060,180,190,USA," $48,035,783        ",M
+3,The Dark Knight ,2008,152,9.0,"2,280,493",84,7104,424,108,USA," $1,005,082,390        ",M
+4,12 Angry Men ,1957,96,9.0,"682,116",96,1661,153,440,USA, $576        ,G
+5,Schindler's List ,1993,195,8.9,"1,202,301",94,1896,232,247,USA," $322,161,245        ",M
+6,The Lord of the Rings: The Return of the King ,2003,201,8.9,"1,627,431",94,3758,355,183,New Zealand," $1,142,456,987        ",M
+7,Pulp Fiction ,1994,154,8.9,"1,808,639",94,3113,292,134,USA," $213,928,762        ",R18+
+8,"The Good, the Bad and the Ugly ",1966,161,8.8,"682,506",90,1146,212,620,Italy," $25,252,927        ",A
+9,The Lord of the Rings: The Fellowship of the Ring ,2001,178,8.8,"1,643,771",92,5421,343,81,New Zealand," $888,159,092        ",M
