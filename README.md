@@ -1,6 +1,6 @@
 # python-projects
 python-learning: learning to use python with different projects and games
 
-python-networking-project: first python script, setting up clients to access servers
+python-networking-project: python script, setting up clients to access servers
 
-python-website-blocker: project used to learn functionalities in github
+python-imdb-scrapper: scrapping data from imdb, used to learn github functionalities
