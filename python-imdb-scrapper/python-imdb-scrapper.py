@@ -109,4 +109,4 @@ movies = pd.DataFrame({'movie': titles,
                        'worldwide_gross': worldwide_grosses,
                        'movie_class': movie_classes})
 
-movies.to_csv('imdb_top250')
+movies.to_csv('imdb_top250', index=False)
