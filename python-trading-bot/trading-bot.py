@@ -1,4 +1,5 @@
-# Credits to: https://blog.quantinsti.com/
+# Credits to: https://blog.quantinsti.com/python-trading/#:~:text=Python%20makes%20it%20easier%20to,hassle%20and%20time%2Dconsuming%20job.
+# An implementation of MACD trading signal
 
 import yfinance as yf
 import seaborn as sns
