@@ -7,6 +7,4 @@ python-imdb-scrapper: scrapping data from imdb, used to learn github functionali
 
     DATASET UNAVAILABLE - removed on request
 
-python_trading_bot: learning to obtain financial data and implement trading signals
-
-python-google-foobar-challenge: a coding challenge by Google with interesting mathematical and data structure questions
+python-trading-signal: learning to obtain financial data and implement trading signals
