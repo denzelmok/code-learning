@@ -4,6 +4,8 @@ Recently I ordered a package that was to be delivered by ship, and unfortunately
 
 My first instinct was to obviously google search for any website and data that provided the location of ships.
 
+![alt text](https://github.com/denzelmok/python-projects/edit/main/python-ship-finder/images/search.png)
+
 I was happy to find that this was working pretty well, getting the information about all the ships that they had information on.
 
 Now the one thing I found in common with these websites and was also the biggest obstruction to my quest was the ~~annoying~~ business-sustaining paywall they had setup if you wanted to gain access to their detailed information.
