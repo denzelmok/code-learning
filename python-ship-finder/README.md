@@ -1,6 +1,6 @@
 # My Ship Tracking Adventure
 
-Recently I ordered a package that was to be delivered by ship, and unfortunately the tracking information they provided was rather lacking in detail, containing only information up to the point where it departed the facility to be boarded for shipping. Hence, I decided upon myself to track down where and when exactly the ship would arrive.
+Recently I ordered a package that was to be delivered by ship, and unfortunately the tracking information they provided was rather lacking in detail, containing only information up to the point where it departed the sorting facility to be boarded for shipping. Hence, I decided upon myself to track down where and when exactly the ship would arrive.
 
 My first instinct was to obviously google search for any website and data that provided the location of ships.
 
