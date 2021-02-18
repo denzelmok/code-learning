@@ -4,11 +4,24 @@ Recently I ordered a package that was to be delivered by ship, and unfortunately
 
 My first instinct was to obviously google search for any website and data that provided the location of ships.
 
-![alt text](https://github.com/denzelmok/python-projects/blob/main/python-ship-finder/images/image.png)
+![alt text](https://github.com/denzelmok/python-projects/blob/main/python-ship-finder/images/search.png)
 
-I was happy to find that this was working pretty well, getting the information about all the ships that they had information on.
+I was happy to find that this was working pretty well, getting the information about **all** the ships that they had information on.
+
+![alt text](https://github.com/denzelmok/python-projects/blob/main/python-ship-finder/images/map.png)
 
 Now the one thing I found in common with these websites and was also the biggest obstruction to my quest was the ~~annoying~~ business-sustaining paywall they had setup if you wanted to gain access to their detailed information.
 
 Fortunately there was this one amazing site who although did not have all the records available, they had 10 days of Port arrival and departure data available, and I instantly knew this was the one, the one site where I could uncover which ship my package was to be boarded on.
 
+Aaaaand here we are. **702** records with **36** pages of information, great.
+
+![alt text](https://github.com/denzelmok/python-projects/blob/main/python-ship-finder/images/data.png)
+
+My initial plan was, why not go through each vessel page by page? I know the vessel I'm looking for will probably be a cargo ship, so thats less work needed.
+
+Away we go, clicking out ships after ships to find the one ship that would arrive in my country. Look at those tabs.
+
+![alt text](https://github.com/denzelmok/python-projects/blob/main/python-ship-finder/images/tabs.png)
+
+After a couple of pages of clicking and developing arthritis, I thought to myself, didn't I learn to code so I could automate this stuff?
