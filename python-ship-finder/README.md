@@ -42,4 +42,4 @@ Now this could mean a couple of things, either:
 - the package might be on the bulk carrier? *unlikely*
 - ~~theres a bug in my script~~ **certainly not**
 
-So, what do I do now that I've hit a dead end to my quest? Guess I'll just sitback and patiently wait for it to arrive like everyone else.
+So, what do I do now that I've hit a dead end to my quest? Guess I'll just sitback and patiently wait for it to arrive like everyone else. *For now that is* :smiling_imp:
