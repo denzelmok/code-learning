@@ -6,7 +6,8 @@ My first instinct was to obviously google search for any website and data that p
 
 ![alt text](https://github.com/denzelmok/python-projects/blob/main/python-ship-finder/images/search.png)
 
-I was happy to find that this was working pretty well, getting the information about ***all*** the ships that they had information on. *Look at those colours.*
+I was happy to find that this was working pretty well, getting the information about ***all*** the ships that they had information on.
+*Look at those colours.*
 
 ![alt text](https://github.com/denzelmok/python-projects/blob/main/python-ship-finder/images/map.png)
 
@@ -20,8 +21,16 @@ Aaaaand here we are. ***702*** records with ***36*** pages of information, great
 
 My initial plan was, why not go through each vessel page by page? I know the vessel I'm looking for will probably be a cargo ship, so thats less work needed.
 
-Away we go, clicking out ships after ships to find the one ship that would arrive in my country. *Look at those tabs.*
+Away we go, clicking out ship after ship to find the one ship that would arrive in my country. *Ooooooh tabs.*
 
 ![alt text](https://github.com/denzelmok/python-projects/blob/main/python-ship-finder/images/tabs.png)
 
 After a couple of pages of clicking away, developing arthritis and questioning the meaning of life, I thought to myself, didn't I learn to code so I could automate this stuff?
+
+***Whooooosh!***
+
+As if by magic, a Python script appeared before me, and I was *shocked* to find that:
+
+![alt text](https://github.com/denzelmok/python-projects/blob/main/python-ship-finder/images/result.png)
+
+There were no cargo ships heading towards Australia :sad:
