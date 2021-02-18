@@ -4,7 +4,7 @@ Recently I ordered a package that was to be delivered by ship, and unfortunately
 
 My first instinct was to obviously google search for any website and data that provided the location of ships.
 
-![alt text](https://github.com/denzelmok/python-projects/edit/main/python-ship-finder/images/search.png)
+![alt text](https://github.com/denzelmok/python-projects/edit/main/python-ship-finder/images/image.png)
 
 I was happy to find that this was working pretty well, getting the information about all the ships that they had information on.
 
