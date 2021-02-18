@@ -8,3 +8,5 @@ python-imdb-scrapper: scrapping data from imdb, used to learn github functionali
     DATASET UNAVAILABLE - removed on request
 
 python-trading-signal: learning to obtain financial data and implement trading signals
+
+python-ship-finder: a simple script attempting to track down my overseas package coming by ship
