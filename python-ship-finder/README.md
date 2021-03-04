@@ -45,4 +45,4 @@ Now this could mean a couple of things, either:
 So, what do I do now that I've hit a dead end to my quest? Guess I'll just sitback and patiently wait for it to arrive like everyone else.  
 *For now that is* :)
 
-Until they have more data available.
+*Waiting for more data*
