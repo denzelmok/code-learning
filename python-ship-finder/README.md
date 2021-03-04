@@ -29,11 +29,11 @@ After a couple of pages of clicking away, developing arthritis and questioning t
 
 ***Whooooosh!***
 
-As if by magic, a Python script appeared before me, and I was *shocked* to find that:
+As if by magic, a Python script was conjured out of thin air, and suprisingly:
 
 ![alt text](https://github.com/denzelmok/python-projects/blob/main/python-ship-finder/images/result.png)
 
-***There were no cargo ships heading towards Australia!*** :sob:
+***There were no cargo ships heading towards Australia!*** :(
 
 Now this could mean a couple of things, either:
 - the data did not go further back enough, as it has been quite a few days since my package has left their facility
@@ -43,4 +43,4 @@ Now this could mean a couple of things, either:
 - ~~theres a bug in my script~~ **certainly not**
 
 So, what do I do now that I've hit a dead end to my quest? Guess I'll just sitback and patiently wait for it to arrive like everyone else.  
-*For now that is* :smiling_imp:
+*For now that is* :)
