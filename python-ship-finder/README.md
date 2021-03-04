@@ -25,7 +25,7 @@ Away we go, clicking out ship after ship to find the one ship that would arrive 
 
 ![alt text](https://github.com/denzelmok/python-projects/blob/main/python-ship-finder/images/tabs.png)
 
-After a couple of pages of clicking away, developing arthritis and questioning the meaning of life, I thought to myself, didn't I learn to code so I could automate this stuff?
+After a couple of pages of clicking away, ~~developing arthritis and questioning the meaning of life~~, I thought to myself, didn't I learn to code so I could automate this stuff?
 
 ***Whooooosh!***
 
