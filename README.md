@@ -1,5 +1,5 @@
 # python-projects
-python-learning: learning to use python with features and games
+python-learning: learning to use python with some cool functions and mini-games
 
 python-networking-project: python script, setting up clients to access servers
 
