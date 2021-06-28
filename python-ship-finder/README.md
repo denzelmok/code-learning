@@ -46,3 +46,6 @@ So, what do I do now that I've hit a dead end to my quest? Guess I'll just sitba
 *For now that is* :)
 
 *Waiting for more data*
+
+*Update*
+Actually got it to work! So what happened was that it still hadn't been shipped when I ran my script. In the end, by running it after a few weeks, I was able to track down a particular ship, and within a few days of its arrival, my package had finally arrived. Project complete! :D
